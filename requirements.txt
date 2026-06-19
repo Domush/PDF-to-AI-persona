@@ -1,0 +1,10 @@
+mcp
+chromadb
+requests
+langchain
+langchain-openai
+langchain-core
+langchain-community
+langchain-text-splitters
+pdfplumber
+pypdf

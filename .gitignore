@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[codz]
+*$py.class
+
+# C extensions
+*.so
+
+# Source data
+pdf/*/*.pdf
+pdf/*/json/
+
+# DB files
+avatar_memory_db/

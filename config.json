@@ -1,0 +1,25 @@
+{
+  "data": {
+    "pdf_root": "pdf",
+    "prepared_output_file_name": "prepared_documents.json",
+    "min_words": 30
+  },
+  "memory_db": {
+    "path": "./avatar_memory_db",
+    "document_index_file": "document_index.json",
+    "collection_name": "default",
+    "chunk_size": 500,
+    "wipe_existing_on_rebuild": true
+  },
+  "embeddings": {
+    "api_base": "http://localhost:1234/v1",
+    "model_name": "nomic-embed-text",
+    "api_key": "lm-studio"
+  },
+  "search": {
+    "default_num_results": 30,
+    "candidate_multiplier": 5,
+    "recency_half_life_days": 180.0,
+    "recency_weight_alpha": 0.15
+  }
+}
