@@ -1,7 +1,12 @@
 # Digital Persona Memory App
 
-Builds a searchable memory bank from persona-specific PDF content and exposes it as an MCP tool.
-Add it as an MCP server in your favorite AI client (eg: LM Studio) with the included system prompt and chat with your heroes, historical figures, or any persona you can define with PDF content. Example personas are included for Karl Marx and Friedrich Engels.
+Builds a searchable memory bank from PDF content and exposes it as an MCP tool.
+
+Add it as an MCP server in your favorite AI client (eg: LM Studio) with the included system prompt and chat with your heroes, historical figures, or any collection of PDF content. 
+
+Example personas are included for Karl Marx and Friedrich Engels. The personas are built from every work both figures ever published. You can chat, ask them questions, or even debate them as though they were still alive and they'll respond based on their own publicly available works.
+
+Alternative uses include adding your school textbooks in PDF format and asking them questions. No more finding that one page, just ask it to explain whatever you want to know.
 
 A [modified version of this app](https://github.com/Domush/Facebook-to-LLM-Avatar) is used to bring Facebook users to life as Digital Personas using their exported Facebook data.
 
