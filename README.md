@@ -1,7 +1,5 @@
 # Digital Persona Memory App
 
-<img width="1408" height="751" alt="image" src="https://github.com/user-attachments/assets/c374217b-79eb-4d63-8d56-7f8396264fd8" />
-
 Builds a searchable memory bank from persona-specific PDF content and exposes it as an MCP tool.
 Add it as an MCP server in your favorite AI client (eg: LM Studio) with the included system prompt and chat with your heroes, historical figures, or any persona you can define with PDF content. Example personas are included for Karl Marx and Friedrich Engels.
 
@@ -170,3 +168,7 @@ Tune behavior in `config.json`:
   - Check `embeddings.api_base`, and ensure the model name in `config.json` match LM Studio's model name.
 - Long build times:
   - Large persona data can take 5-10+ minutes depending on hardware and embedding throughput.
+
+## Screenshot of this in action
+
+<img width="1408" height="751" alt="image" src="https://github.com/user-attachments/assets/c374217b-79eb-4d63-8d56-7f8396264fd8" />
