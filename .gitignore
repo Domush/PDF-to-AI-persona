@@ -12,3 +12,8 @@ pdf/*/json/
 
 # DB files
 avatar_memory_db/
+
+# Website build & dependencies (gh-pages)
+node_modules/
+dist/
+

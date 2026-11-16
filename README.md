@@ -1,5 +1,11 @@
 # Digital Persona Memory App
 
+[![Website](https://img.shields.io/badge/Website-Live%20Simulator-amber?style=flat-square)](https://domush.github.io/PDF-to-AI-persona/)
+[![MCP](https://img.shields.io/badge/MCP-FastMCP-purple?style=flat-square)](https://modelcontextprotocol.io/)
+[![LM Studio](https://img.shields.io/badge/LM%20Studio-Compatible-cyan?style=flat-square)](https://lmstudio.ai/)
+
+🌐 **Live Website, Persona Simulator & Documentation:** [domush.github.io/PDF-to-AI-persona](https://domush.github.io/PDF-to-AI-persona/)
+
 Builds a searchable memory bank from PDF content and exposes it as an MCP tool.
 
 Add it as an MCP server in your favorite AI client (eg: LM Studio) with the included system prompt and chat with your heroes, historical figures, or any collection of PDF content. 
