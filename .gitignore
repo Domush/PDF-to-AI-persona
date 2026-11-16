@@ -1,0 +1,9 @@
+node_modules/
+dist/
+avatar_memory_db/
+pdf/
+parser/
+__pycache__/
+*.pyc
+.env
+.DS_Store
