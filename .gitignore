@@ -1,5 +1,6 @@
 node_modules/
 dist/
+assets/
 avatar_memory_db/
 pdf/
 parser/
